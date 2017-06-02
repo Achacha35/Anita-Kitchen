@@ -1,0 +1,32 @@
+div.j{text-align:center;}
+body{background-image: : url("landing.jpg");
+}
+.end{background-color: black;
+}
+.left{text-align: right;}
+.r{color: darkorange;
+text-align: justify;}
+.part {
+    background-image: url("../img/subscribe.jpg");
+    text-align: center;
+    padding: 40px;
+
+}
+.jumbotron{background-image: url("../img/landing.jpg");}
+.break{background-image: url("../img/breakfast.jpg");
+padding: 40px;
+padding-right: 300px;
+padding-left: 150px;
+color: white;}
+.white{color: white;}
+.orange{background-color: #F15429;
+color: white;
+text-align: center;
+padding: 40px;}
+.lunch{background-image: url("../img/lunch.jpg");padding: 40px;padding-left: 150px;padding-right: 150px;color: white;}
+.dinner{background-image: url("../img/dinner.jpg");padding: 40px;
+padding-left: 100px;padding-right: 121px;color: white;}
+.happy{background-color: grey;padding: 15px;padding-right: 172px;}
+.party{background-color: #F15429;padding: 10px;padding-right: 180px;}
+.title{color: grey;}
+strong{color: white;}
