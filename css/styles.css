@@ -19,7 +19,7 @@ strong{
 
 #d{
   background-color: silver;
-  height: 80px;
+  height: 60px;
   color: black;
   text-align:center;
 }
@@ -31,14 +31,59 @@ strong{
 
 #e{
   background-color: #F15A29;
-  height: 80px;
+  height: 60px;
   color: white;
   text-align:center;
 }
+
 #e:hover{
   background-color: grey;
   color: black;
 }
+
+.breakfast{
+  background-image: url(../img/breakfast.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 120px;
+  color: white;
+  text-align:center;
+
+}
+
+.breakfast:hover{
+  background-color: grey;
+  opacity:0.5;
+  color: black;
+}
+
+.lunch{
+  background-image: url(../img/lunch.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 120px;
+  color: white;
+  text-align:center;
+}
+.lunch:hover{
+  background-color: grey;
+  opacity:0.5;
+  color: black;
+}
+.dinner{
+  background-image: url(../img/dinner.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 120px;
+  color: white;
+  text-align:center;
+}
+.dinner:hover{
+  background-color: grey;
+  opacity:0.5;
+  color: black;
+}
+
 .main{
   margin-right: 0px;
 padding-right: 0px;
@@ -87,40 +132,7 @@ padding-right: 0px;
   opacity: 0.5;
   border-style: none;
 }
-.a{
-  background-image: url(../img/breakfast.jpg);
-  height: 200px;
-  color: white;
-  text-align:center;
 
-}
-.a:hover{
-  background-color: grey;
-  opacity:0.5;
-  color: black;
-}
-.b{
-  background-image: url(../img/lunch.jpg);
-  height: 200px;
-  color: white;
-  text-align:center;
-}
-.b:hover{
-  background-color: grey;
-  opacity:0.5;
-  color: black;
-}
-.c{
-  background-image: url(../img/dinner.jpg);
-  height: 200px;
-  color: white;
-  text-align:center;
-}
-.c:hover{
-  background-color: grey;
-  opacity:0.5;
-  color: black;
-}
 
 
 .liam{
