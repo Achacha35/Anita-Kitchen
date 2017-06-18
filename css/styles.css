@@ -4,15 +4,40 @@
   background-size: 100% 100%;
   color: white;
 }
+
 .header-font{
   color: silver;
 }
+
 strong{
   color: white;
 }
-.top{
-  margin:  auto;
+
+.top-navbar{
   text-align: center;
+}
+
+#d{
+  background-color: silver;
+  height: 80px;
+  color: black;
+  text-align:center;
+}
+
+#d:hover{
+  background-color: #F15A29;
+  color: black;
+}
+
+#e{
+  background-color: #F15A29;
+  height: 80px;
+  color: white;
+  text-align:center;
+}
+#e:hover{
+  background-color: grey;
+  color: black;
 }
 .main{
   margin-right: 0px;
@@ -96,26 +121,8 @@ padding-right: 0px;
   opacity:0.5;
   color: black;
 }
-#d{
-  background-color: grey;
-  height: 100px;
-  color: white;
-  text-align:center;
-}
-#d:hover{
-  background-color: #F15A29;
-  color: black;
-}
-#e{
-  background-color: #F15A29;
-  height: 100px;
-  color: white;
-  text-align:center;
-}
-#e:hover{
-  background-color: grey;
-  color: black;
-}
+
+
 .liam{
   background-image: url(../img/foodsBg.jpg);
 height: 300px;
