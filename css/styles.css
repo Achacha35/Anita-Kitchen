@@ -1,5 +1,12 @@
 .head{
   background-image: url(../img/landing.jpg);
+  color: white;
+}
+.header-font{
+  color: silver;
+}
+strong{
+  color: white;
 }
 .top{
   margin:  auto;
