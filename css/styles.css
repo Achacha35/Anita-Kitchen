@@ -1,32 +1,138 @@
-div.j{text-align:center;}
-body{background-image: : url("landing.jpg");
+.head{
+  background-image: url(../img/landing.jpg);
 }
-.end{background-color: black;
+.top{
+  margin:  auto;
+  text-align: center;
 }
-.left{text-align: right;}
-.r{color: darkorange;
-text-align: justify;}
-.part {
-    background-image: url("../img/subscribe.jpg");
-    text-align: center;
-    padding: 40px;
+.main{
+  margin-right: 0px;
+padding-right: 0px;
+}
+.al{
+  width: 20px;
+}
+.ro{
+  text-align: right;
+}
+
+.clas{
+  text-align: center ;
+}
+.pic{
+  text-align: center;
+}
+.glyphicn{
+  color: #F15A29;
+  padding: 10px 20px 10px 20px;
+  background-color: white;
+  border-style: solid;
+  border-color: #F15A29;
+}
+.glyphic{
+  color: #F15A29
+}
+.ken{
+  background-image: url(../img/subscribe.jpg);
+  height: 300px;
+}
+.w{
+  color: white;
+}
+.cc{
+  padding-top: 30px;
+  margin: 10px auto;
+  margin-top: 100px;
+}
+#gly{
+  background-color: #F15A29;
+  color: white;
+  border-style: none;
+}
+#tes{
+  opacity: 0.5;
+  border-style: none;
+}
+.a{
+  background-image: url(../img/breakfast.jpg);
+  height: 200px;
+  color: white;
+  text-align:center;
 
 }
-.jumbotron{background-image: url("../img/landing.jpg");}
-.break{background-image: url("../img/breakfast.jpg");
-padding: 40px;
-padding-right: 300px;
-padding-left: 150px;
-color: white;}
-.white{color: white;}
-.orange{background-color: #F15429;
-color: white;
-text-align: center;
-padding: 40px;}
-.lunch{background-image: url("../img/lunch.jpg");padding: 40px;padding-left: 150px;padding-right: 150px;color: white;}
-.dinner{background-image: url("../img/dinner.jpg");padding: 40px;
-padding-left: 100px;padding-right: 121px;color: white;}
-.happy{background-color: grey;padding: 15px;padding-right: 172px;}
-.party{background-color: #F15429;padding: 10px;padding-right: 180px;}
-.title{color: grey;}
-strong{color: white;}
+.a:hover{
+  background-color: grey;
+  opacity:0.5;
+  color: black;
+}
+.b{
+  background-image: url(../img/lunch.jpg);
+  height: 200px;
+  color: white;
+  text-align:center;
+}
+.b:hover{
+  background-color: grey;
+  opacity:0.5;
+  color: black;
+}
+.c{
+  background-image: url(../img/dinner.jpg);
+  height: 200px;
+  color: white;
+  text-align:center;
+}
+.c:hover{
+  background-color: grey;
+  opacity:0.5;
+  color: black;
+}
+#d{
+  background-color: grey;
+  height: 100px;
+  color: white;
+  text-align:center;
+}
+#d:hover{
+  background-color: #F15A29;
+  color: black;
+}
+#e{
+  background-color: #F15A29;
+  height: 100px;
+  color: white;
+  text-align:center;
+}
+#e:hover{
+  background-color: grey;
+  color: black;
+}
+.liam{
+  background-image: url(../img/foodsBg.jpg);
+height: 300px;
+}
+.bobo{
+  margin-left:200px;
+  margin-top: 15px;
+  height: 50px;
+}
+.lolo{
+  margin-bottom: 20px;
+  text-align: center;
+}
+.don{
+  background-color: #F15A29;
+  height: 300px;
+
+}
+
+.lop{
+  text-align: center;
+  padding-top: 100px;
+}
+footer{
+  padding-top: 60px;
+}
+.container lop{
+  color: white;
+}
